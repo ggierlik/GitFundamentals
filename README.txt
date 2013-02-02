@@ -1,3 +1,4 @@
 Hello, Git
-Second line added.
+
+Some practise from Git Fundamental course by Plurarsight.
 
